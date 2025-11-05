@@ -1,0 +1,9 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/SheriffMudasir/PastureSense-Backend.git
+[submodule "mobile"]
+	path = mobile
+	url = https://github.com/SheriffMudasir/PastureSense-mobile-Frontend.git
+[submodule "web"]
+	path = web
+	url = https://github.com/SheriffMudasir/PastureSense-web-Frontend.git
