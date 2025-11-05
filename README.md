@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="/PastureSense/assets/banner.png" alt="PastureSense Banner" width="800">
+<img src="/assets/banner.png" alt="PastureSense Banner" width="800">
 
 # 🌍 PastureSense by Ubuntu Labs
 
